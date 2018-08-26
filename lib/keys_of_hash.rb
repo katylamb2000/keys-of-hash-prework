@@ -1,6 +1,6 @@
 class Hash
-  def keys_of(arguments, *panama)
-    array = []
+  def keys_of(*arguments)
+    array = [*argument[key]]
    
   end
 end
