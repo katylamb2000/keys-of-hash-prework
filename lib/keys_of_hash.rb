@@ -6,7 +6,3 @@ class Hash
 end
 
 end
-
- if arguments = 
-      array = ["red-footed tortoise"]
-      array
