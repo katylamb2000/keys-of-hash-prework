@@ -5,4 +5,4 @@ class Hash
   end
 end
 
-end
+
